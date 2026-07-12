@@ -1,0 +1,2 @@
+//@version=6
+indicator("TT Gold AI M30", overlay=true)
